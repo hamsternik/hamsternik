@@ -1,16 +1,12 @@
-### Hi there 👋
+[<img align="left" alt="hamsternik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:hamsternik9@gmail.com)
+[<img align="left" alt="hamsternik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/khomitsevych)
+[<img align="left" alt="hamsternik | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?screen_name=hamsternik)
+[<img align="left" alt="hamsternik | Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/hamsterniknews)
 
-<!--
-**hamsternik/hamsternik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+iOS Software Engineer | Solopreneur | Swift, SwiftUI, Combine | | Adviser | Mentor
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my activities:
+1. Review my [iOS course for beginners](https://github.com/hamsternik/robotdreams-ios-course) [RU, 2021]
+2. Subscribe to [my channel](https://t.me/hamsterniknews) in Telegram
+3. Read my blog at [hamsternik.com](https://www.hamsternik.com)
