@@ -3,8 +3,9 @@
 [<img align="left" alt="hamsternik | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?screen_name=hamsternik)
 [<img align="left" alt="hamsternik | Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/hamsterniknews)
 
-</br>
-iOS Software Engineer | Solopreneur | Swift, SwiftUI, Combine | | Adviser | Mentor
+<br>
+
+iOS Software Engineer (Swift, SwiftUI, Combine) | Solopreneur | Adviser | Mentor
 
 Check out my activities:
 1. Review my [iOS course for beginners](https://github.com/hamsternik/robotdreams-ios-course) [RU, 2021]
