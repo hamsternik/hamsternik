@@ -5,7 +5,7 @@
 
 <br>
 
-Software Engineer | Apple Platforms (iOS, macOS, watchOS) | Tech Career Coach
+Founding Engineer | Apple Platforms | iOS, macOS | Tech Career Coach
 
 Check out my activities:
 
