@@ -5,7 +5,7 @@
 
 <br>
 
-Software Engineer (iOS, macOS, Web full-stack) | Technical Career Adviser
+Software Engineer | Apple Platforms (iOS, macOS, watchOS) | Tech Career Coach
 
 Check out my activities:
 
